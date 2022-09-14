@@ -1,0 +1,6 @@
+framework module Pods_Appnomi_ShoppingTests {
+  umbrella header "Pods-Appnomi-ShoppingTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
